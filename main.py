@@ -28,7 +28,7 @@ def game():
     print("I'm thinking of a number between 1 and 100.")
 
     number_to_guess = randint(1, 100)
-    print(f"HINT: {number_to_guess}")
+    #print(f"HINT: {number_to_guess}")
 
     attempts = set_difficulty()
 
