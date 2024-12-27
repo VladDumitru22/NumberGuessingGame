@@ -53,12 +53,6 @@ You have 3 attempts remaining to guess the number.
 Enter your guess: 63
 Correct! The answer was 63.
 
-Project Structure
-
-random-number-guessing/
-├── main.py       # Main game logic
-└── README.md    # Project documentation
-
 Customization
 
 Change the Range: Modify the range of numbers by updating the constants in the main.py file.
